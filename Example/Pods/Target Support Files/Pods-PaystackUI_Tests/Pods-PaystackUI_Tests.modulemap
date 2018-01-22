@@ -1,0 +1,6 @@
+framework module Pods_PaystackUI_Tests {
+  umbrella header "Pods-PaystackUI_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

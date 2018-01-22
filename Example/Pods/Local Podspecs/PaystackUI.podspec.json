@@ -1,0 +1,22 @@
+{
+  "name": "PaystackUI",
+  "version": "0.1.0",
+  "summary": "A short description of PaystackUI.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/moderateepheezy/PaystackUI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "moderateepheezy": "cuttieberry@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/moderateepheezy/PaystackUI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PaystackUI/Classes/**/*"
+}
