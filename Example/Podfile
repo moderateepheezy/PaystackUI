@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PaystackUI_Tests' do
+  pod 'PaystackUI', :path => '../'
+  
+  
+end
